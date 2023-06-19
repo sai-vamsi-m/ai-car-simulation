@@ -1,4 +1,4 @@
-# Slf-driving ai-car-simulation game using N.E.A.T
+# Self-driving ai-car-simulation game using N.E.A.T
 
 ## Overview
 
